@@ -106,3 +106,29 @@ https://github.com/dimisysk/factory-project
 ```bash
 ./gradlew bootRun
 ```
+
+### For Windows:
+```bash
+gradlew.bat bootRun
+```
+
+### Frontend
+```bash
+npm install
+ng serve
+```
+
+### Local URLs
+- Frontend: http://localhost:4200
+- Backend: http://localhost:8080
+
+### Notes
+This project is built for demonstration and learning purposes.
+
+### Future Improvements
+- Improve UI/UX consistency
+- Add validation and error handling
+- Add testing (unit & integration)
+- Improve production readiness
+
+  
