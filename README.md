@@ -122,10 +122,14 @@ ng serve
 - Frontend: http://localhost:4200
 - Backend: http://localhost:8080
 
-### Notes
+## Notes
+
 This project is built for demonstration and learning purposes.
 
-### Future Improvements
+---
+
+## Future Improvements
+
 - Improve UI/UX consistency
 - Add validation and error handling
 - Add testing (unit & integration)
