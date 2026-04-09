@@ -60,18 +60,8 @@ https://github.com/dimisysk/factory-project
 
 ## Screenshots
 
-### Home
-![Home](screenshots/home.png)
-
----
-
-### Login
-![Login](screenshots/login.png)
-
----
-
-### Register
-![Register](screenshots/register.png)
+### Admin Panel (Customers)
+![Admin](screenshots/admin-table.png)
 
 ---
 
@@ -85,10 +75,7 @@ https://github.com/dimisysk/factory-project
 
 ---
 
-### Admin Panel (Customers)
-![Admin](screenshots/admin-table.png)
 
----
 
 ### Update Customer
 ![Update](screenshots/update-customer.png)
